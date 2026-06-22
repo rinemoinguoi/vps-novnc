@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sisters-silent-traveler-vegetables.trycloudflare.com/vnc.html
+URL       : https://configuring-ssl-rouge-throughout.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-22 05:13:23
+Created   : 2026-06-22 15:30:18
 =======================================================
