@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://seas-inter-choir-somerset.trycloudflare.com/vnc.html
+URL       : https://university-favourites-shopzilla-pda.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-02 12:16:29
+Created   : 2026-07-02 16:58:34
 =======================================================
