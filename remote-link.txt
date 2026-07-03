@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wells-couple-instant-working.trycloudflare.com/vnc.html
+URL       : https://cloth-passport-induced-diego.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 08:17:46
+Created   : 2026-07-03 12:16:54
 =======================================================
