@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://argue-aurora-dry-quoted.trycloudflare.com/vnc.html
+URL       : https://proxy-administrative-cdna-region.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-09 17:27:24
+Created   : 2026-07-09 21:29:57
 =======================================================
