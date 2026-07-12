@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sweet-descending-quilt-stable.trycloudflare.com/vnc.html
+URL       : https://keyword-seal-strategies-foundations.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 16:06:39
+Created   : 2026-07-12 21:01:23
 =======================================================
