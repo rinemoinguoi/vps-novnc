@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gotta-hist-reaching-gem.trycloudflare.com/vnc.html
+URL       : https://require-techno-week-benefits.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-14 16:25:55
+Created   : 2026-07-14 21:09:30
 =======================================================
