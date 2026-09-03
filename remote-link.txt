@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://animal-appropriate-correlation-cbs.trycloudflare.com/vnc.html
+URL       : https://suitable-dns-ambient-knows.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-03 14:21:46
+Created   : 2026-09-03 18:30:43
 =======================================================
