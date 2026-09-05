@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://importantly-commodity-equity-declared.trycloudflare.com/vnc.html
+URL       : https://proud-architecture-hart-seas.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 08:57:13
+Created   : 2026-09-05 13:23:47
 =======================================================
