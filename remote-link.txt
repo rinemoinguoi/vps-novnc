@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://consent-southern-affect-judges.trycloudflare.com/vnc.html
+URL       : https://cameron-net-monitor-specifies.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 13:33:27
+Created   : 2026-09-06 17:37:12
 =======================================================
