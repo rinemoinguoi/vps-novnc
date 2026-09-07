@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://explore-gourmet-function-sometimes.trycloudflare.com/vnc.html
+URL       : https://brooks-placed-nor-continually.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 04:09:05
+Created   : 2026-09-07 10:06:41
 =======================================================
