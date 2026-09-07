@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brooks-placed-nor-continually.trycloudflare.com/vnc.html
+URL       : https://pubs-said-truck-behaviour.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 10:06:41
+Created   : 2026-09-07 19:06:50
 =======================================================
