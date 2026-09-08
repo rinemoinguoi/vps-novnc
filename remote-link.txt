@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://handbook-livecam-associate-bon.trycloudflare.com/vnc.html
+URL       : https://karen-realm-blah-incoming.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 22:45:07
+Created   : 2026-09-08 04:11:22
 =======================================================
