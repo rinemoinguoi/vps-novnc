@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nice-struck-uni-owner.trycloudflare.com/vnc.html
+URL       : https://correspondence-alias-simply-ago.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 14:21:54
+Created   : 2026-09-18 18:18:45
 =======================================================
