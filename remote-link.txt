@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://beings-offices-curves-paid.trycloudflare.com/vnc.html
+URL       : https://vegetation-resist-duck-eve.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-26 04:37:21
+Created   : 2026-09-26 09:49:35
 =======================================================
