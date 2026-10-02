@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://contamination-refrigerator-visual-partnership.trycloudflare.com/vnc.html
+URL       : https://generic-features-mails-jungle.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 05:14:02
+Created   : 2026-10-02 16:13:17
 =======================================================
