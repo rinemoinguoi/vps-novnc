@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://consequence-tail-derek-dna.trycloudflare.com/vnc.html
+URL       : https://lives-march-working-success.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 17:59:54
+Created   : 2026-10-18 22:22:53
 =======================================================
