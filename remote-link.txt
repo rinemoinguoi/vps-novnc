@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://downloads-aggregate-likely-meanwhile.trycloudflare.com/vnc.html
+URL       : https://tampa-ranger-dropped-highs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 06:12:46
+Created   : 2026-11-06 00:57:35
 =======================================================
